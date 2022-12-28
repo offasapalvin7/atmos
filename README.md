@@ -1,5 +1,4 @@
 # atmos
 offasapalvin | Automated XSS Finder
 
-
-I made these tool  to check for cross-site scripting.
+These tool automate the process of finding xss cv (cross-site scripting)
