@@ -12,7 +12,9 @@ Installation
 
 
 git clone https://github.com/offasapalvin7/atmos.git
+
 cd QuickXSS
+
 chmod +x QuickXSS.sh
 
 
