@@ -2,4 +2,4 @@
 offasapalvin | Automated XSS Finder
 
 
-I made these tool  to check for cross-site scripting.
+I made these tool  to check  cross-site scripting.
